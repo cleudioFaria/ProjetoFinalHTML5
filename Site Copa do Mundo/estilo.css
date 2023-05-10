@@ -1,0 +1,1278 @@
+
+ 
+ body
+ {
+    background-color: rgb(206, 185, 185);
+ }
+
+
+ /****************************************************  
+      estilização do cabeçalho ---HEADER do site   
+ ******************************************************/
+
+ header
+ {
+    background-image: url(IMG/imagem\ da\ copa.jpg);
+    opacity: 0.9;     
+ }
+ 
+
+ header
+ {
+    border: 1px solid black;
+    height: 200px;
+    width: 1400px;
+    margin: 10px;
+ }
+
+ header h1
+ {
+    color: azure;
+    text-align: center;
+    font-size: 4em; 
+ }
+
+ header h3
+ {
+  color: azure;
+  margin-left: 970px;
+  font-size: 25px;
+
+ }
+
+ 
+ 
+  /* ----------------------------------------------------------------- */
+  /* ----------------------------------------------------------------- */
+  /* ----------------------------------------------------------------- */
+
+
+
+  /*****************************************  
+      estilização do menu do site nav  
+   ***************************************/
+ nav
+ {
+    border: 1px solid blueviolet;
+    height: 100px;
+    width: 1400px;
+    margin: 10px;
+    background-color: #74547c;
+ }
+
+
+ /* estilização do menu do site nav   */
+ nav li 
+ {
+     
+    text-decoration: none;
+    display: inline ;
+    float: left; 
+    padding: 20px;
+    margin-left: 80px;
+    font-size: 2rem;
+    width: 150px;
+ }
+
+ /* estilização do menu do site nav    */
+ nav li a 
+ {
+    color: azure;
+    padding: auto;
+    margin-left: 60px; 
+    
+ }
+ 
+
+ /* estilizaçao do menu quando passa o botao do mouse hover  */
+
+ nav li a:hover 
+ {
+    color: rgb(17, 19, 24);
+    padding: 10%;
+    margin-left: 50px;
+    background-color: #0d2ed6; 
+    text-decoration: none;
+ }
+ 
+
+/* ----------------------------------------------------------------- */
+/* ----------------------------------------------------------------- */
+/* ----------------------------------------------------------------- */
+
+
+
+ /****************************************************  
+      estilização da seção ---SECTION--- do site   
+ ******************************************************/
+
+
+ section
+ {
+    border: 1px solid green;
+    height: 620px;
+    width: 1400px;
+    margin: 10px;
+    background-color: #74547c;
+ }
+
+ section div
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 530px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 20px;
+ }
+
+ section div h2
+ {
+   text-align: center;
+   color: #0da912;
+
+ }
+
+ 
+
+ section div img
+ {
+   height: 400px;
+   width: 400px;
+
+ }
+
+ section div button  
+ { 
+    
+   list-style: none;
+   width: 130px;
+   height: 40px;
+   background-color: #0da912;
+   margin-left: 270px ;
+   margin-top: 6px;
+   
+    
+ }
+
+
+ section div button:hover  
+ { 
+   list-style: none;
+   width: 100px;
+   height: 30px;
+   background-color: #3c0da9;
+   margin-left: 300px ;
+   
+ }
+ 
+ 
+ section div button 
+ {
+   color: aqua;
+   padding: 20px;
+   text-align:  center;
+   text-size-adjust: 10px;
+   border-radius: 10px;
+    
+ }
+
+
+ section div button:hover 
+ {
+   color: rgb(236, 11, 11);
+   text-align: center;
+   text-decoration: none;
+   padding:10px;
+   border-radius: none;
+    
+ }
+
+
+ /* ----------------------------------------------------------------- */
+/* ----------------------------------------------------------------- */
+/* ----------------------------------------------------------------- */
+
+
+
+/* -------------------------------------------------------------------------------------------- */
+ .quadro1
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro2
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro3
+{
+   float:  left;
+   display:inline;
+}  
+
+/* ----------------------------------------------------------------------------------- */
+
+.quadro4
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro5
+{
+   float: left;
+   display:inline;
+}  
+
+ 
+.quadro6
+{
+   float:  left;
+   display:inline;
+    
+}  
+
+/* ----------------------------------------------------------------------------------- */
+
+
+.quadro7
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro8
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro9
+{
+   float:  left;
+   display:inline;
+}
+
+/* ----------------------------------------------------------------------------------------- */
+
+
+
+.quadro10
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro11
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro12
+{
+   float:  left;
+   display:inline;
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+.quadro13
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro14
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro15
+{
+   float:  left;
+   display:inline;
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+
+.quadro16
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro17
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro18
+{
+   float:  left;
+   display:inline;
+}
+
+
+/* --------------------------------------------------------------------------------------- */
+
+.quadro19
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro20
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro21
+{
+   float:  left;
+   display:inline;
+}
+
+
+
+/* --------------------------------------------------------------------------------------- */
+
+.quadro22
+{
+   float: left;
+   display:inline;
+} 
+
+.quadro23
+{
+   float: left;
+   display:inline;
+}  
+
+
+.quadro24
+{
+   float:  left;
+   display:inline;
+}
+
+
+/* --------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------- */
+
+  
+/* estilizando a janela modal das imagens */
+
+  /* estilazacao da *** SECTION 01 *** das imagens  */
+  /* estilização da janela modal da imagem 01 */
+  .quadro01
+  {
+   width: 700px;
+   height: 700px;
+   background-color: #e60be6;
+   position: absolute;
+   top: 680px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+    
+
+  }
+
+/* estilização da janela modal da imagem 02 */
+  .quadro02
+  {
+   width: 700px;
+   height: 700px;
+   background-color: #cc71cc;
+   position: absolute;
+   top: 680px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+  }
+
+   /* estilização da janela modal da imagem 03 */
+  .quadro03
+  {
+   width: 700px;
+   height: 700px;
+   background-color: #cc71cc;
+   position: absolute;
+   top: 680px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+  }
+
+
+  /*************************************************************** 
+    estilização da imagem do formato X na janela modal da imagem
+   **************************************************************/
+  .btnSair
+  {
+   width: 30px;
+   height: 30px;
+   float: right;
+   background-color: brown;
+   color: white;
+   margin: 10px;
+   margin-top: -50px;
+   
+
+  }
+
+
+    /* estilazacao da section 02 das imagens  */
+ /* estilização da imagem do formato X na janela modal da imagem 04 */
+
+ .quadro04
+  {
+   width: 700px;
+   height: 700px;
+   background-color: #cc71cc;
+   position: absolute;
+   top: 1320px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+  }
+
+ /* estilização da imagem do formato X na janela modal da imagem 05 */
+  .quadro05
+  {
+   width: 700px;
+   height: 700px;
+   background-color:  #cc71cc;
+   position: absolute;
+   top: 1320px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+  }
+
+
+  /* estilização da imagem do formato X na janela modal da imagem 06 */
+  .quadro06
+  {
+   width: 700px;
+   height: 700px;
+   background-color:  #cc71cc;
+   position: absolute;
+   top: 1320px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+    
+  }
+
+
+    /* estilazacao da SECITON 03  das imagens  */
+ /* estilização da imagem do formato X na janela modal da imagem 07 */
+
+ .quadro07
+ {
+  width: 700px;
+  height: 700px;
+  background-color: #cc71cc;
+  position: absolute;
+  top: 1960px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+ /* estilização da imagem do formato X na janela modal da imagem 08 */
+ .quadro08
+ {
+  width: 700px;
+  height: 700px;
+  background-color: #0d2ed6;
+  position: absolute;
+  top: 1960px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;  
+ }
+
+ /* estilização da imagem do formato X na janela modal da imagem 09 */
+ .quadro09
+ {
+  width: 700px;
+  height: 700px;
+  background-color: #0d2ed6;
+  position: absolute;
+  top: 1960px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+
+ 
+    /* estilazacao da SECITON 04  das imagens  */
+ /* estilização da imagem do formato X na janela modal da imagem 10 */
+
+ .quadro100
+ {
+  width: 700px;
+  height: 700px;
+  background-color: #4ef308;
+  position: absolute;
+  top: 2580px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+ /* estilização da imagem do formato X na janela modal da imagem 11 */
+ .quadro111
+ {
+  width: 700px;
+  height: 700px;
+  background-color:  #0d2ed6;
+  position: absolute;
+  top: 2580px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+
+ /* estilização da imagem do formato X na janela modal da imagem 12 */
+ .quadro112
+ {
+  width: 700px;
+  height: 700px;
+  background-color: #4ef308;
+  position: absolute;
+  top: 2580px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none; 
+ }
+
+
+
+ 
+    /*************************************************** 
+        Estilazacao da SECITON 05  das imagens  
+    ***************************************************/
+ 
+  
+   
+
+  /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 1986 
+   *****************************************************/
+ .quadro113
+ {
+  width: 700px;
+  height: 780px;
+  background-color: #f3e30a;
+  position: absolute;
+  top: 3200px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+  
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 1990 
+  *****************************************************/
+
+ .quadro114
+ {
+  width: 700px;
+  height: 780px;
+  background-color: #f3e30a;
+  position: absolute;
+  top:    3200px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+  
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 1994 
+  *****************************************************/
+
+ .quadro115
+ {
+  width: 700px;
+  height: 780px;
+  background-color: #f3e30a;
+  position: absolute;
+  top: 3200px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+   
+ }
+
+
+
+    /* estilazacao da SECITON 06  das imagens  */
+ /* estilização da imagem do formato X na janela modal da imagem 16 */
+
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 1998 
+  *****************************************************/
+ .quadro116
+ {
+  width: 700px;
+  height: 780px;
+  background-color: #b905d4;
+  position: absolute;
+  top: 3840px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+
+
+ /* estilização da imagem do formato X na janela modal da imagem 17 */
+                    /* copa de 2002  */
+
+/*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2002 
+  *****************************************************/
+ .quadro117
+ {
+  width: 700px;
+  height: 780px;
+  background-color: #09d405;
+  position: absolute;
+  top: 3840px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+
+
+ /* estilização da imagem do formato X na janela modal da imagem 18 */
+
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2006 
+  *****************************************************/
+ .quadro118
+ {
+  width: 700px;
+  height: 770px;
+  background-color: #b905d4;
+  position: absolute;
+  top: 3840px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+
+
+ 
+    /* estilazacao da SECITON 07  das imagens  */
+ /* estilização da imagem do formato X na janela modal da imagem 19 */
+
+
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2010
+  *****************************************************/
+ .quadro119
+ {
+  width: 700px;
+  height: 770px;
+  background-color: #09dbe7;
+  position: absolute;
+  top: 4490px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+
+  /* estilização da imagem do formato X na janela modal da imagem 20 */
+
+  /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2014 
+  *****************************************************/
+  .quadro120
+  {
+   width: 700px;
+   height: 770px;
+   background-color: #09dbe7;
+   position: absolute;
+   top: 4490px;
+   left: 50%;
+   transform: translate(-50% , -50%);
+   display: none;
+  }
+
+
+
+ /* estilização da imagem do formato X na janela modal da imagem 21 */
+
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2018 
+  *****************************************************/
+ .quadro121
+ {
+  width: 700px;
+  height: 770px;
+  background-color: #09dbe7;
+  position: absolute;
+  top: 4490px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+
+ /* estilização da imagem do formato X na janela modal da imagem 22 */
+
+ /*****************************************************
+        Estilizaçao da DIV da copa de mundo de 2022 
+  *****************************************************/
+ .quadro122
+ {
+  width: 700px;
+  height: 770px;
+  background-color: #09dbe7;
+  position: absolute;
+  top: 5109px;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  display: none;
+ }
+
+/* ------------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------- */
+
+
+
+ /**************************************************************************************************** 
+                            estilizaçao dos mascotes das copas
+  ****************************************************************************************************/
+
+ 
+
+ .SEM-MASCOTE
+ {
+  width: 70px;
+  height: 70px;
+  border: #121112 solid 2px;
+  margin-left: 10px;
+ }
+
+
+/* estilizaçao do mascote da copa de 1966 */
+ .Mascote1966
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+ 
+ /* estilizaçao do mascote da copa de 1970 */
+ .Mascote1970
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 1974 */
+ .Mascote1974
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 1978 */
+ .Mascote1978
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 1982 */
+ .Mascote1982
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 1986 */
+ .Mascote1986
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 1990 */
+ .Mascote1990
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 1994 */
+ .Mascote1994
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 1998 */
+ .Mascote1998
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 2002 */
+ .Mascote2002
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 2006 */
+ .Mascote2006
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 2010 */
+ .Mascote2010
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 2014 */
+ .Mascote2014
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* estilizaçao do mascote da copa de 2018 */
+ .Mascote2018
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+
+ /* estilizaçao do mascote da copa de 2022 */
+ .Mascote2022
+ {
+   width: 70px;
+   height: 70px;
+   border: #121112 solid 2px;
+   margin-left: 10px;
+ }
+
+ /* -------------------------------------------------------------------- */
+ /* -------------------------------------------------------------------- */
+ /* -------------------------------------------------------------------- */
+
+
+
+
+ /************************************************************************* 
+                Estilização do formulario de contato  
+ **************************************************************************/
+
+
+ .Form-contato h1
+ {
+   color: #fcfcfc;
+   font-size: 2em;
+   margin-left: 40px;
+   text-align: center; 
+ }
+
+ .FRM-Formulario 
+ {
+   width: 45%;
+   height: 500px;
+   border: solid 1px #121112;
+   background-color: #0d2ed6;
+
+ }
+
+
+
+ .FRM-Formulario  fieldset
+ {
+    width: 595px;
+    height: 480px; 
+
+ }
+
+ .FRM-Formulario legend 
+ {
+     color:  #d77676;
+     font-size: 30px;
+     text-align: center;
+
+ }
+
+
+ .FRM-Formulario label 
+ {
+     color: #fcfcfc;
+     font-size: 20px;
+     padding: 10px;
+
+ }
+
+
+ .FRM-Formulario input 
+ {   
+     width: 400px;
+     height: 20px;
+     margin-top: 5px;
+ }
+ 
+ .FormBtn
+ {
+   color: #b905d4;
+   width: 40px;
+   height: 60px;
+   border-radius: 10px;
+   background-color: #09dbe7;
+ }
+ 
+ .FormBtn:hover
+ {
+   color: #034747;
+   border-radius: 10px;
+   background-color: #1aff01;
+ }
+
+
+ /* ---------------------------------------------------------------------- */
+ /* ---------------------------------------------------------------------- */
+ /* ---------------------------------------------------------------------- */
+
+
+
+
+/*************************************************************************** 
+              estilização do formulario de contato
+              -----------IMAGEM LATERAL-----------    
+ **************************************************************************/
+
+ .divImagem
+ {
+   border: solid 1px black;
+   float: left;
+   width: 50%;
+   height: 500px;
+   float: right;
+   display: inline;
+   margin-right: 20px;
+   background-color: #f3e30a;
+   margin-top: -500px;  
+ }
+
+
+
+ 
+ .divImagem img
+ {
+    
+   float: left;
+   width: 100%;
+   height: 500px;
+   float: right;
+   display: inline;
+    
+ }
+
+
+/* ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- */
+
+
+
+/*************************************************************************** 
+              estilização das DIV e IMAGENS da pagina IMAGENS
+                  -----------IMAGEM CENTRAL-----------    
+ ****************************************************************************/
+
+
+ .quadro1111
+ {
+   
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+
+ .quadro2222
+ {
+
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+ .quadro3333
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+ .quadro4444
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+ .quadro5555
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+ 
+ .quadro6666
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+
+ .quadro7777
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+ .quadro8888
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+ .quadro9999
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 430px;
+   width: 410px;
+   margin-left: 40px;
+   margin-top: 80px;
+   float: left;
+   display:inline;
+ }
+
+  /* ------------------------------------------------------------------------------------ */
+  /* ------------------------------------------------------------------------------------ */
+  /* ------------------------------------------------------------------------------------ */
+
+  
+  /**************************************************************************************** 
+                      estilização das DIV e texto da pagina SOBRE
+                          -----------DIV CENTRAL-----------    
+   ***************************************************************************************/
+
+
+   .Section-PaginaSobre
+   {
+      border: 1px solid green;
+      height: 920px;
+      width: 1400px;
+      margin: 10px;
+      background-color: #074aa2;
+
+   }
+
+   .Section-PaginaSobre h1
+   {
+      color: rgb(10, 189, 55);
+      text-align: center;
+      font-size: 40px;
+
+
+   }
+   
+ .DIV01-PaginaSobre
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 730px;
+   width: 610px;
+   margin-left: 40px;
+   margin-top: 30px;
+   float: left;
+   display:inline;
+   background-color: #05387b;
+
+ }
+
+ .DIV02-PaginaSobre
+ {
+   border: 1px solid rgb(186, 174, 174);
+   height: 730px;
+   width: 650px;
+   margin-left: 50px;
+   margin-top: 30px;
+   float: left;
+   display:inline;
+   background-color: #05387b;
+ }
+
+
+
+ .DIV01-PaginaSobre p
+ {
+   color: rgb(233, 233, 233);
+   text-indent: 30px;
+   padding: 20px;
+
+ }
+ 
+ .DIV02-PaginaSobre p , li
+ {
+   color: rgb(233, 233, 233);
+   text-indent: 30px;
+   padding: 10px;
+
+ } 
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+
+
+
+  /***************************************************************************************
+                  Estilizaçao do rodape da pagina do site 
+   ***************************************************************************************/
+  footer
+  {
+     border: 1px solid rgb(190, 3, 3);
+     background-color: #74547c;
+     height: 200px;
+     width: 1400px;
+     margin: 10px;
+  }
+
+
+  footer h1 , h2
+  {
+    text-align: center;
+    color: whitesmoke;
+
+  }
+ 
+ 
+ /* ------------------------------------------------------------------------------------------------- */
+ /* ------------------------------------------------------------------------------------------------- */
+ /* ------------------------------------------------------------------------------------------------- */
+ 

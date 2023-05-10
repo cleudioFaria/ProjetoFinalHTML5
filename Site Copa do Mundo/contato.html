@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contato</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+
+    
+    <!-- inicio do corpo da pagina contato  -->
+    <body>
+
+        <!-- cabecalho do site  -->
+        <header>
+            <h1> Copa do Mundo</h1>
+            <h3>CLEUDIO DE FARIA</h3>
+
+        </header>
+    
+        <!-- aqui começa  o menu do site  -->
+        <nav>
+            <li> <a href="index.html"> Home </a></li>
+            <li><a href="sobre.html">Sobre </a></li>
+            <li><a href="imagens.html">Imagens</a></li>
+            <li><a href="#">Contato</a></li>
+            
+        </nav>
+
+
+
+        <section  class="Form-contato">
+
+            <h1>Entre em Contato Conosco</h1>
+
+            <div class="FRM-Formulario">
+                <form action="/action_page.php" method="post" style="width: 50%; height: 50%; float: left; ">
+                    <fieldset>
+                      <legend> Formulario de Contato</legend>
+                            <label for="fname">Nome:</label><br>
+                            <input type="text" id="fname" name="fname" value="" placeholder=" Digite seu Primeiro Nome"   ><br><br>
+                            
+                            <label for="lname">Sobrenome:</label><br>
+                            <input type="text" id="lname" name="lname" value="" placeholder=" Digite seu Sobrenome "   > <br> <br>
+                            
+                            <label for="email">Digite seu melhor Email de Contato:</label><br>
+                            <input type="email" id="email" name="email" placeholder=" Digite seu Email Aqui"  > <br><br>
+    
+                            <label for="email">Digite sua Duvida Aqui:</label><br>
+                            <textarea name="message"rows="10" cols="52" >
+                                   
+                            </textarea> <br>
+                            
+                            <input class="FormBtn" type="submit" value="Enviar" onclick="alert('Formulario Enviado com Sucesso!')">
+                    </fieldset>
+               
+                </form>
+
+            </div>
+                       
+           
+            <!-- aqui começa a div da imagem lateral que compoe o formulario  -->
+            <div class="divImagem">
+                 <img src="IMG-PAGINA-CONTATO/IMAGEM-LATERAL-PAGINA-CONTATO.jpg" alt="imagem de Contato">  
+            </div>
+             
+              
+        </section>
+
+
+        <!-- inicio do rodape da pagina de imagens  -->
+        <footer>
+            <h1>Espirito Santo do Pinhal SP </h1>
+            <h2>Dia: 08/05/2023</h2>
+            <h2>Horário: 13:50</h2>
+            
+        </footer>
+         
+        
+        <script src="arquivo.js"></script>
+
+        
+        
+    </body>
+</html>
